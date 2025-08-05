@@ -244,14 +244,10 @@ int32,Image,str
 
 探索フィールドでは、セントラルクリスタルの力により、
 クラフター・ギャザラーの「スプリント」が「コスモスプリント」に変化し、
-速度と効果時間が強化されます。
-
-また探索フィールドでは、マウントに騎乗することができません。
-ただし、大型ローダーによる指令「<UIForeground>0F</UIForeground>メカオペレーション<UIForeground>01</UIForeground>」が発令された場合は、
-パイロットに選抜された少数のプレイヤーのみ、専用のマウントへ騎乗し指令に参加することが可能です。"
+速度と効果時間が強化されます。"
 34,"ui/icon/086000/086816.tex","<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■エクスプローラータブレットを触ってみよう！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-コスモエクスプローラーでは、コスモミッション・メカオペレーション以外にも様々な要素があります。
+コスモエクスプローラーでは、コスモミッション以外にも様々な要素があります。
 各要素の遊び方は「<UIForeground>0F</UIForeground>エクスプローラータブレット<UIGlow>01</UIGlow><UIForeground>01</UIForeground>」の「<UIForeground>0F</UIForeground>惑星探索のすすめ<UIGlow>01</UIGlow><UIForeground>01</UIForeground>」に記載されています。
 
 わからないことがあった時は、エクスプローラータブレットを確認してみましょう！"

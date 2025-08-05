@@ -696,7 +696,7 @@ int32,byte,byte,Image,byte,str,str,str
 168,0,0,,0,"","",""
 169,0,0,,0,"","",""
 170,1,0,"ui/icon/150000/ja/150361.tex",0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「レストエリア」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に入りました。
-レストエリアに入ると、EXPバーの下に
+レストエリアに入ると、EXPバーの右に
 アイコンがつきます。
 
 レストエリアに滞在している間は、
@@ -964,7 +964,7 @@ EXPバー上に黄色か青の
 
 　　　　　　　　　　　次のページヘ》","",""
 241,1,0,"ui/icon/150000/ja/150972.tex",0,"リミットゲージはパーティ全体で
-１本のゲージを共有し、バトルをすると
+1本のゲージを共有し、バトルをすると
 増えていきます。
 
 特に瀕死状態の味方への回復行為や、
@@ -978,7 +978,7 @@ EXPバー上に黄色か青の
 クロスホットバーにセットして使います。
 
 発動される技は、単体攻撃、範囲攻撃、
-防御、回復の４系統が存在し、技の内容は
+防御、回復の4系統が存在し、技の内容は
 クラスやジョブによって変化します。
 
 
@@ -1544,7 +1544,7 @@ HPを回復してくれるようになります。
 
 
  　　　　　　　　　　　次のページヘ》","",""
-442,1,0,"ui/icon/150000/ja/150963.tex",0,"リーダーと他３名の<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「署名」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>で結成するか
+442,1,0,"ui/icon/150000/ja/150963.tex",0,"リーダーと他3名の<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「署名」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>で結成するか
 既に結成されたフリーカンパニーを
 探して加入しても良いでしょう。
 
@@ -1560,7 +1560,7 @@ HPを回復してくれるようになります。
 ための<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「署名」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が求められました。
 
 フリーカンパニーの結成には、
-署名へのサインが３名分必要です。
+署名へのサインが3名分必要です。
 依頼主を確認して、サインをしましょう。","",""
 451,0,0,,0,"","",""
 452,0,0,,0,"","",""
@@ -3638,7 +3638,7 @@ Lv35の弓術士が装備できる
 1230,1,0,"ui/icon/151000/ja/151421.tex",0,"格闘士は、<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「型」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>という特殊効果を扱って
 戦うバトルクラスです。
 
-３種の型でグループ化された
+3種の型でグループ化された
 ウェポンスキルを順に繋げることで、
 連続攻撃を繰り出すことができます。
 
@@ -3648,7 +3648,7 @@ Lv35の弓術士が装備できる
 1231,1,0,"ui/icon/151000/ja/151422.tex",0,"ウェポンスキルには、
 実行することで付与される型と、
 実行に必要な型が指定されており、
-型には以下の３種類が存在します。
+型には以下の3種類が存在します。
 
 　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「壱の型：魔猿」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「弐の型：走竜」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -5492,14 +5492,14 @@ BIND化されます。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 1850,1,0,"ui/icon/152000/ja/152021.tex",0,"忍者は、<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「印」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の組み合わせで変化する
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「忍術」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を使って戦うバトルクラスです。
 
-印には以下の３種類が存在します。
+印には以下の3種類が存在します。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「天の印」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「地の印」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「人の印」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 そして忍術を発動するためのアクション、
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「忍術」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が存在します。
 　　　　　　　　　　　次のページヘ》","",""
-1851,1,0,"ui/icon/152000/ja/152022.tex",0,"３種類の印を特定の順に繋げることで、
+1851,1,0,"ui/icon/152000/ja/152022.tex",0,"3種類の印を特定の順に繋げることで、
 様々な忍術を発動することができる
 状態になります。
 
@@ -5983,7 +5983,7 @@ PASS　 ：必要ない。
 廃棄されてしまうため、注意が必要です。
 
 また、NEED、GREEDを選択した後でも
-アイテムごとに<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>１回だけPASSを
+アイテムごとに<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1回だけPASSを
 選択し直すことができます。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ただし、そのアイテムが誰かの手に渡る
 前にしか選択し直すことはできません。
@@ -6202,7 +6202,7 @@ RPは他の冒険者と対戦した時のみ、
 　敵ミニオン<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が視認できなくなります。
 
 　　　　　　　　　　　次のページヘ》","",""
-2192,1,0,"ui/icon/152000/ja/152363.tex",0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>・「ゲート」:その１<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+2192,1,0,"ui/icon/152000/ja/152363.tex",0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>・「ゲート」:その1<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　ミニオンが召喚される施設です。
 　自軍のゲート内にミニオンを入れると、
 　ミニオンのHPが回復します。
@@ -6212,7 +6212,7 @@ RPは他の冒険者と対戦した時のみ、
 　そのゲートからはミニオンを出したり、
 　入れたりすることはできなくなります。
 　　　　　　　　　　　次のページヘ》","",""
-2193,1,0,"ui/icon/152000/ja/152364.tex",0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>・「ゲート」：その２<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+2193,1,0,"ui/icon/152000/ja/152364.tex",0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>・「ゲート」：その2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　ゲート内にいるミニオンは
 　敵ミニオンからの攻撃を
 　受け付けません。
@@ -7128,8 +7128,15 @@ F.A.T.E.を見つけたら、
 様々な状態に変化することがあります。
 
 状態の変化をよく見ながら、
-適切なアクションを実行して、
-高い品質を目指しましょう！","",""
+適切なアクションを実行しましょう！
+　　　　　　　　　　　次のページへ》","",""
+2521,1,0,"ui/icon/152000/ja/152822.tex",0,"高難易度レシピの製作中に変化する
+状態の種類は、レシピ毎に異なります。
+
+製作手帳のレシピのサブコマンドから
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「製作時に発生する状態を確認」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を
+選択すると、変化する可能性がある状態を
+確認することができます。","",""
 2530,1,0,"ui/icon/152000/ja/152831.tex",0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ペーシェンス」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を覚えました！
 
 漁師のアクションである
@@ -7397,7 +7404,7 @@ EXホットバーから<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow
 専用アクションです。
 
 コンテンツで設定された内容に応じた
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>最大５種の追加アクション<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>最大5種の追加アクション<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を
 利用可能になります。
 
 
@@ -7407,18 +7414,18 @@ HUD上に表示されたアクションを
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>左クリック<UIGlow>01</UIGlow><UIForeground>01</UIForeground>して実行します。
 
 マウスでのクリック操作の他に
-コンテンツアクション１～２を
+コンテンツアクション1～2を
 キーバインドに割り当てていた場合は、
 アクションの切り替え・実行を用いて
 実行することもできます。
 　　　　　　　　　　　次のページヘ》","",""
 2583,1,0,"ui/icon/152000/ja/152983.tex",0,"また、アクションリスト内の
-「Contents」に登録されている
+「CONTENTS」に登録されている
 以下のアクションをホットバーに設定して
 直接アクション実行することも可能です。
 
-・コンテンツアクション１～２
-・サポートアクション１～５
+・コンテンツアクション1～2
+・サポートアクション1～5
 
 自分なりに使いやすい方法に
 カスタマイズしてみましょう！","",""
@@ -7432,9 +7439,83 @@ HUD上に表示されたアクションを
 
 
 　　　　　　　　　　　次のページヘ》","",""
-2585,0,0,,0,"","",""
-2586,0,0,,0,"","",""
-2587,0,0,,0,"","",""
-2588,0,0,,0,"","",""
-2589,0,0,,0,"","",""
-2590,0,0,,0,"","",""
+2585,1,0,"ui/icon/151000/ja/151011.tex",0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「宝物庫 ボルト・オネイロン」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+へ突入しました！
+
+本施設では、
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ドリームスロット」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を回すことで、
+財宝を守るモンスターが出現します。
+
+モンスターを倒すことができれば、
+財宝を手にすることができます。
+　　　　　　　　　　　次のページヘ》","",""
+2586,1,0,"ui/icon/151000/ja/151012.tex",0,"ドリームスロットは地図の持ち主が
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>最大5回<UIGlow>01</UIGlow><UIForeground>01</UIForeground>まで挑戦できます。
+
+出現するモンスターは
+ドリームスロットで揃う<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「図柄」によって<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+異なります。
+
+強いモンスターが出現するほど、
+倒したときの財宝も増えることでしょう。
+　　　　　　　　　　　次のページヘ》","",""
+2587,1,0,"ui/icon/151000/ja/151013.tex",0,"同じ図柄が3つ揃うとことにより
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「小さなダイヤ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>は下級のモンスター、
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「三つのダイヤ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>は中級のモンスター、
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「大きなダイヤ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>は上級のモンスターが、
+それぞれ召喚されます。
+
+図柄が揃わなくとも挑戦は継続しますが、
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「割れたダイヤ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の図柄が3つ揃うと
+宝物庫から追い出されてしまいます……。
+　　　　　　　　　　　次のページヘ》","",""
+2588,1,0,"ui/icon/151000/ja/151014.tex",0,"図柄には<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特別な遊戯<UIGlow>01</UIGlow><UIForeground>01</UIForeground>が発生するものも
+ありますが、
+それは冒険者であるみなさんの目で、
+お確かめください……。
+
+どの図柄が揃うかは運任せ！
+仲間と共に、秘宝を手に入れましょう！","",""
+2589,1,0,"ui/icon/150000/ja/150911.tex",0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「フェニックスの尾」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を入手しました。
+
+フェニックスの尾を使用することで、
+戦闘不能状態のプレイヤーを
+蘇生することができます。
+
+
+
+
+　　　　　　　　　　　次のページヘ","",""
+2590,1,0,"ui/icon/150000/ja/150912.tex",0,"フェニックスの尾は、
+ダンジョンの攻略時など
+パーティプレイの際に
+役に立つアイテムです。
+
+特に蘇生魔法の使い手が
+戦闘不能になった場合であっても
+パーティを立て直すことが
+できるかもしれません。
+　　　　　　　　　　　次のページヘ》","",""
+2591,1,0,"ui/icon/150000/ja/150913.tex",0,"なお、特定のコンテンツでは
+フェニックスの尾を使うことができません。
+
+対象となるコンテンツでは、
+ファインダーの<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>INFORMATION<UIGlow>01</UIGlow><UIForeground>01</UIForeground>に、
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「フェニックスの尾使用不可」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+と表示されます。
+
+
+　　　　　　　　　　　次のページヘ》","",""
+2592,1,0,"ui/icon/150000/ja/150914.tex",0,"フェニックスの尾は、
+クエストをコンプリートした際の報酬や、
+「薬屋」や「よろず屋」などでの
+購入によって入手することができます。
+","",""
+2593,0,0,,0,"","",""
+2594,0,0,,0,"","",""
+2595,0,0,,0,"","",""
+2596,0,0,,0,"","",""
+2597,0,0,,0,"","",""
+2598,0,0,,0,"","",""
+2599,0,0,,0,"","",""
+2600,0,0,,0,"","",""

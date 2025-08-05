@@ -31,3 +31,4 @@ int32,byte,Image,Item,EventItem,EventItem,byte,byte,uint16,bit&01
 27,1,"ui/icon/060000/060354.tex","古ぼけた地図G16","宝の地図G16",,1,0,200,False
 28,1,"ui/icon/060000/060354.tex","古ぼけた地図G17","宝の地図G17","転送魔紋の地図G7",8,0,200,False
 29,0,,"",,,0,0,0,False
+30,1,"ui/icon/060000/060354.tex","古ぼけた地図G18","宝の地図G18","転送魔紋の地図G8",8,0,200,False

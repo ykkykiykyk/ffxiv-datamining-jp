@@ -84,3 +84,8 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 80,"怒りに震える","",True,False,False,False,3,False
 81,"トームストーンを愛で続ける","",True,False,False,False,3,False
 82,"本を熟読する","",True,False,False,False,3,False
+83,"森都風マグカップで飲み続ける","",True,False,False,False,3,False
+84,"砂都風マグカップで飲み続ける","",True,False,False,False,3,False
+85,"海都風マグカップで飲み続ける","",True,False,False,False,3,False
+86,"","",True,False,False,False,3,False
+87,"羽根ペンで記述する","",True,False,False,False,3,False

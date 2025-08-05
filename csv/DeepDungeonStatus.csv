@@ -2,10 +2,10 @@
 #,ScreenImage,LogMessage,Name
 int32,ScreenImage,LogMessage,DeepDungeonFloorEffectUI
 0,"ScreenImage#0","",""
-1,"ScreenImage#411","この階層には、暗闇の魔法効果が発動しているようだ……","魔法効果：暗闇"
-2,"ScreenImage#412","この階層には、最大HP低下の魔法効果が発動しているようだ……","魔法効果：最大ＨＰ低下"
-3,"ScreenImage#413","この階層には、ダメージ低下の魔法効果が発動しているようだ……","魔法効果：ダメージ低下"
-4,"ScreenImage#415","この階層には、ヘイストの魔法効果が発動しているようだ……","魔法効果：ヘイスト"
-5,"ScreenImage#414","この階層には、アビリティ使用不可の魔法効果が発動しているようだ……","魔法効果：アビリティ使用不可"
-6,"ScreenImage#416","この階層には、最大HP/MP上昇の魔法効果が発動しているようだ……","魔法効果：最大ＨＰ／ＭＰ上昇"
-7,"ScreenImage#613","この階層には、スプリントの魔法効果が発動しているようだ……","魔法効果：スプリント"
+1,"ScreenImage#411","この<Switch(PlayerParameter(109))><Case(1)>階層</Case><Case(2)>階層</Case><Case(3)>階層</Case><Case(4)>巡礼路</Case></Switch>には、暗闇の魔法効果が発動しているようだ……","魔法効果：暗闇"
+2,"ScreenImage#412","この<Switch(PlayerParameter(109))><Case(1)>階層</Case><Case(2)>階層</Case><Case(3)>階層</Case><Case(4)>巡礼路</Case></Switch>には、最大HP低下の魔法効果が発動しているようだ……","魔法効果：最大ＨＰ低下"
+3,"ScreenImage#413","この<Switch(PlayerParameter(109))><Case(1)>階層</Case><Case(2)>階層</Case><Case(3)>階層</Case><Case(4)>巡礼路</Case></Switch>には、ダメージ低下の魔法効果が発動しているようだ……","魔法効果：ダメージ低下"
+4,"ScreenImage#415","この<Switch(PlayerParameter(109))><Case(1)>階層</Case><Case(2)>階層</Case><Case(3)>階層</Case><Case(4)>巡礼路</Case></Switch>には、ヘイストの魔法効果が発動しているようだ……","魔法効果：ヘイスト"
+5,"ScreenImage#414","この<Switch(PlayerParameter(109))><Case(1)>階層</Case><Case(2)>階層</Case><Case(3)>階層</Case><Case(4)>巡礼路</Case></Switch>には、アビリティ使用不可の魔法効果が発動しているようだ……","魔法効果：アビリティ使用不可"
+6,"ScreenImage#416","この<Switch(PlayerParameter(109))><Case(1)>階層</Case><Case(2)>階層</Case><Case(3)>階層</Case><Case(4)>巡礼路</Case></Switch>には、最大HP/MP上昇の魔法効果が発動しているようだ……","魔法効果：最大ＨＰ／ＭＰ上昇"
+7,"ScreenImage#613","この<Switch(PlayerParameter(109))><Case(1)>階層</Case><Case(2)>階層</Case><Case(3)>階層</Case><Case(4)>巡礼路</Case></Switch>には、スプリントの魔法効果が発動しているようだ……","魔法効果：スプリント"

@@ -98,7 +98,7 @@ PvPアディショナルアクション1の使用可能状況を報告する発�
 37,"号令：集合","ui/icon/009000/009971.tex","集合しましょう！<Unknown60>0264</Unknown60>",,37
 38,"報告：浄化","ui/icon/009000/009905.tex","<Sheet(Action,IntegerParameter(1),0)/> - <If(Equal(IntegerParameter(2),0))>使用可能！<Unknown60>0263</Unknown60><Else/>再使用可能まで<Value>IntegerParameter(2)</Value>秒<Unknown60>0264</Unknown60></If>","「ザ・フィースト」でのみ使用可能な指示コマンドです。
 固有の発言がパーティチャットに表示されます。
-<Color(PlayerParameter(16))><27>01</27><28>02</28>「メダルを拾ってください。」<28>01</28><27>02</27></Color>",38
+<Color(PlayerParameter(16))><27>01</27><28>02</28>「メダルを拾ってください。」<28>01</28><27>02</27></Color>",0
 39,"報告：防御","ui/icon/009000/009972.tex","<Sheet(Action,IntegerParameter(1),0)/> - <If(Equal(IntegerParameter(2),0))>使用可能！<Unknown60>0263</Unknown60><Else/>再使用可能まで<Value>IntegerParameter(2)</Value>秒<Unknown60>0264</Unknown60></If>","「クリスタルコンフリクト」でのみ使用可能な指示コマンドです。
 固有の発言がパーティチャットに表示されます。
 <Color(PlayerParameter(16))><27>01</27><28>02</28>「攻めましょう！」<28>01</28><27>02</27></Color>",39
